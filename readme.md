@@ -1,3 +1,6 @@
+# Estudo de TypeScript
+# Este documento cobre os conceitos principais de TypeScript, incluindo tipos primitivos, tuplas, enumerações, interseções e asserções de tipo
+
 ## 1. Tipos Básicos em TypeScript
 Números (number): Representam valores numéricos, incluindo inteiros e números de ponto flutuante.
 Strings (string): Usadas para representar textos.
